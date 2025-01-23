@@ -2,6 +2,8 @@
 
 A lightweight, interactive command-line interpreter written in C#. This shell provides basic system utilities and file management capabilities with a colorful, user-friendly interface.
 
+Telegram channel: t.me/EblanShell
+
 ## Features
 
 ### System Commands
